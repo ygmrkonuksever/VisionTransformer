@@ -1,0 +1,1 @@
+In this project open-sourced "COVID-19 Radiography Database” and “Chest X-Ray Images” datasets are used from Kaggle. These datasets consists 10.192 normal, 3.616 covid, 3.883 pneumonia, 6.012 lung opacity patient chest x-ray (CXR) images. Classification acc 0.96
